@@ -22,5 +22,3 @@ The goal is to build and compare classification models that can identify patient
 
 **Purpose**
 This project demonstrates the end-to-end process of building interpretable ML models for a real-world healthcare classification problem.
-
-This project demonstrates the end-to-end process of building interpretable ML models for a real-world healthcare classification problem and is part of my Spring 2025 machine learning coursework.
